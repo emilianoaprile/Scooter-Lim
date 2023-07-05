@@ -1,0 +1,104 @@
+body{
+  font-family: RobotoCondensed-Regular, sans-serif;
+  background-image: url(MaterialeEsercizioLim/sfondo.png);
+  background-size: cover;
+
+}
+
+.contenitore {
+  width: 1000px;
+  margin-left: auto;
+}
+
+.sfondo-nero{
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  width: 1000px;
+  height: 600px;
+  margin: auto;
+  margin-top: 42px;
+}
+
+.Logo{
+  width: 180px;
+  display: flow-root;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.Logo-testo{
+  font-family: RobotoCondensed-Regular, sans-serif;
+  color: rgb(0, 225, 0);
+  width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+.sfondo-verde{
+  background-color: rgb(0, 225, 0);
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 5px;
+  text-align: center;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 10px;
+}
+
+.sfondo-verde button {
+  font-family: RobotoCondensed-Italic, sans-serif;
+  font-size: 12px;
+}
+
+
+h3{
+  display: inline-block;
+  color: rgba(255,255,255, 0.9);
+  margin-bottom: 0;
+}
+
+#blocco1 {
+    background-color: rgba(249, 105, 14, 1);
+    width: 300px;
+    height: 20px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+#blocco2{
+  background-color: rgba(0, 170, 0, 1);
+  width: 450px;
+  height: 20px;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+
+#blocco3{
+  background-color: rgba(165, 42, 42, 1 );
+  width: 100px;
+  height: 20px;
+  margin-top: 5px;
+  border-radius: 5px;
+
+}
+.Monopattini {
+  width: 400px;
+  margin-left: 40px;
+}
+
+.info-monoppatino{
+  color: rgba(255, 255, 255, 0.8);
+}
+
+footer{
+  text-align: right;
+  font-family: RobotoCondensed-LightItalic, sans-serif;
+  color: rgba(0, 255, 0, 0.8);
+  margin-right: 40px;
+}
+
+#grassetto{
+  font-family: RobotoCondensed-BoldItalic, sans-serif;
+  font-size: 14px;
+}
